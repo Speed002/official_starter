@@ -52,4 +52,6 @@ if (Features::enabled(Features::resetPasswords())) {
     Route::get('/auth/reset', ResetIndexController::class)->name('password.reset');
 }
 
+// Route::multisteps();
+
 require __DIR__ . '/fortify.php';

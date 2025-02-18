@@ -6,7 +6,7 @@ defineOptions({ layout: Default })
 </script>
 
 <template>
-    <div class="max-w-7xl mx-auto p-8">
+    <div class="max-w-5xl mx-auto p-8">
         Dashboard
     </div>
 

@@ -4,7 +4,7 @@ import { Link } from '@inertiajs/vue3'
 
 <template>
     <div>
-        <div class="mx-auto max-w-4xl sm:grid grid-cols-4 gap-8 space-y-8 sm:space-y-0 px-4 py-6 lg:py-8">
+        <div class="mx-auto max-w-5xl sm:grid grid-cols-5 gap-8 space-y-8 sm:space-y-0 px-4 py-6 lg:py-8">
             <div class="col-span-1">
                 <nav class="sm:border-r border-r-slate-100 h-full">
                     <ul class="space-y-1">
